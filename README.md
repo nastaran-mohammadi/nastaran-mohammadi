@@ -31,13 +31,9 @@
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 </p>
 
-| More about me | StackOverflow  |
-| ---------- | -----:|
-| Experienced Mobile Developer with a focus on mobile app development, particularly in crafting exceptional UI designs. With over 5 years of experience in React Native and Flutter, has successfully delivered over 20 projects. Known for a pixel-perfect approach, committed to creating visually appealing and user-friendly interfaces. The commitment extends to clean code and architecture, ensuring seamless and maintainable apps. Excited to bring a love for design and devotion to excellence to mobile development projects!| [![Nastaran Mohammadi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11631758)](https://stackoverflow.com/users/11631758/nastaran-mohammadi) |
-
-<h3>Where to find me</h3>
-<p><a href="https://www.linkedin.com/in/nastaran-mohammadi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://nastaran1376mohammadi.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+| Where to find me | StackOverflow  |
+| ---------- | -----|
+|<a href="https://www.linkedin.com/in/nastaran-mohammadi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://nastaran1376mohammadi.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>| [![Nastaran Mohammadi StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11631758)](https://stackoverflow.com/users/11631758/nastaran-mohammadi) |
 
 <h3>Let's Play! :sunglasses:</h3>
 <picture>
