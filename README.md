@@ -35,7 +35,7 @@
 </p>
 
 <h3>Where to find me</h3>
-<a href="https://www.linkedin.com/in/nastaran-mohammadi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://nastaran1376mohammadi.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://stackoverflow.com/users/11631758/nastaran-mohammadi" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nastaran-mohammadi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@nastaran-mohammadi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://stackoverflow.com/users/11631758/nastaran-mohammadi" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
 <h3>Let's Play! :sunglasses:</h3>
 <picture>
